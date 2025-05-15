@@ -1,0 +1,1 @@
+# Noch habe ich schwirigkeiten mit diesem ganzen hin und her zwischen git vs und bash.. hoffe das ich das bald besser in den kopf bekomme!
