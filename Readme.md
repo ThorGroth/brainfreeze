@@ -1,1 +1,2 @@
 # Noch habe ich schwirigkeiten mit diesem ganzen hin und her zwischen git vs und bash.. hoffe das ich das bald besser in den kopf bekomme!
+# Ich bin aber zuversichtlich das ich das mit deiner hilfe schaffen kann, ansonsten lernt halt der computer fliegen;-P
